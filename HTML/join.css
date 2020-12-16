@@ -1,0 +1,92 @@
+#b1 {
+	color: white;
+}
+
+#b1:hover {
+	color: #EACD65;
+}
+
+#b3 {
+	color: white;
+}
+
+#b3:hover {
+	color: #EACD65;
+}
+
+#b6 {
+	color: #FF9933;
+}
+
+#me {
+	margin-left: -153px;
+	font-size: 2.2vw;
+}
+
+#bigbox {
+	vertical-align: top;
+	margin-bottom: 20px;
+}
+
+#old {
+	margin-left: -148px;
+	font-size: 2.2vw;
+}
+
+#ynam {
+	margin-left: -51px;
+	font-size: 2.2vw;
+}
+
+#push {
+	width: 20%;
+}
+
+#center {
+	height: 60vh;
+}
+
+@media (max-width: 1000px) {
+
+	#center {
+		height: 112vw;
+	}
+	.wel {
+		font-size: 5vw;
+	}
+	.beftex {
+		font-size: 4vw;
+	}
+	.textbox {
+		height: 5vw;
+		margin-left: 1vw;
+		margin-top: 1vw;
+	}
+	#bigbox {
+		height: 30vw;
+		width: 50vw;
+	}
+	#me {
+		margin-left: 0;
+		font-size: 4vw;
+	}
+	#push {
+		width: 30vw;
+		height: 10vw;
+		font-size: 4vw;
+	}
+	#ynam {
+		margin-left: 0;
+		font-size: 4vw;
+	}
+	#old {
+		margin-left: 0;
+		font-size: 4vw;
+	}
+	#oldt {
+		width: 50%;
+	}
+	#ynamt {
+		width: 50%;
+	}
+}

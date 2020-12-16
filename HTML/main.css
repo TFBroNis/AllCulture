@@ -1,0 +1,18 @@
+@media (max-width: 1000px) {
+
+	#center {
+		width: 100%;
+	}
+	#cdes {
+		font-size: 3vw;
+	}
+	.wel {
+		font-size: 4vw;
+	}
+	.hname {
+		margin-left: -20%;
+	}
+	#con {
+		font-size: 3vw;
+	}
+}

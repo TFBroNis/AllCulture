@@ -1,0 +1,57 @@
+#b1 {
+	color: white;
+}
+
+#b1:hover {
+	color: #EACD65;
+}
+
+#b5 {
+	color: #FF9933;
+}
+
+.portrait {
+	margin-left: 5%;
+	margin-top: 5%;
+	width: 13vw;
+}
+
+.artinf {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 4%;
+	font-size: 2vw;
+}
+
+#fio {
+	margin-top: 60px;
+}
+
+#year {
+	font-size: 1.7vw;
+}
+
+#artdes {
+	margin-left: 5%;
+	margin-right: 5%;
+	font-size: 1.7vw;
+}
+
+@media (max-width: 1000px) {
+	.portrait {
+		display: block;
+		width: 30vw;
+	}
+	.artinf {
+		font-size: 4vw;
+	}
+	#year {
+		font-size: 2.5vw;
+	}
+	#artdes {
+		font-size: 3vw;
+	}
+	#center {
+		height: 162vw;
+	}
+}

@@ -1,0 +1,20 @@
+#cdes {
+	margin-top: 50px;
+}
+
+#afi1 {
+	border: 3px solid black;
+	margin-bottom: 30px;
+}
+
+.bline {
+	margin-left: 10%;
+	width: 80%;
+}
+
+#b1 {
+	color: white;
+}
+#b1:hover {
+	color: #EACD65;
+}

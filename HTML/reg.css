@@ -1,0 +1,76 @@
+#b1 {
+	color: white;
+}
+#b1:hover {
+	color: #EACD65;
+}
+
+#b3 {
+	color: #FF9933;
+}
+
+.beftex {
+	font-size: 36px;
+	display: inline-block;
+	margin-top: 0;
+}
+
+.textbox {
+	height: 20px;
+	font-size: 20px;
+}
+
+#pas {
+	margin-left: -15px;
+}
+
+#fam {
+	margin-left: -41px;
+}
+
+#nam {
+	margin-left: 35px;
+}
+
+#otc {
+	margin-left: -43px;
+}
+
+#push {
+	width: 25%;
+	height: 35px;
+	font-size: 1.3vw;
+	margin-top: 40px;
+}
+
+#log {
+	margin-left: -128px;
+	font-size: 2.5vw;
+}
+
+@media (max-width: 1000px) {
+
+	#center {
+		height: 162vw;
+	}
+	.wel {
+		font-size: 5vw;
+	}
+	.beftex {
+		font-size: 3.5vw;
+		margin-top: 5vw;
+	}
+	.textbox {
+		height: 5vw;
+		margin-left: 1vw;
+		margin-top: 1vw;
+	}
+	#push {
+		width: 40vw;
+		height: 10vw;
+		font-size: 4vw;
+	}
+	#nam {
+		margin-left: -1vw;
+	}
+}

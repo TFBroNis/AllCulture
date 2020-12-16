@@ -1,0 +1,15 @@
+@media (max-width: 1000px) {
+	#center {
+		width: 100%;
+	}
+	#afi1 {
+		width: 60vw;
+		margin-left: 20%;
+	}
+	#cdes {
+		font-size: 3vw;
+	}
+	.wel {
+		font-size: 4vw;
+	}
+}
